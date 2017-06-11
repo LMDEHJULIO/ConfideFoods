@@ -12,8 +12,9 @@ gem 'react-rails'
 
 gem 'flux-rails-assets'
 
-gem 'lodash-rails'
+gem 'sprockets-es6'
 
+gem 'lodash-rails'
 
 gem 'jquery-rails'
 
